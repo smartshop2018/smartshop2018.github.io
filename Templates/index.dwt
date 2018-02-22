@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" /> 
+     
+     <link rel="stylesheet" href="../css/style.css">
+     
+     <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+
+   	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+   	<title>Smart Shop</title>
+   	<!-- TemplateEndEditable -->
+   	<!-- TemplateBeginEditable name="head" -->
+   	<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="logo">
+	<img src="../images/smart-shop-logo-150.png">
+   
+<h3><!-- TemplateBeginEditable name="tagline" -->Thanking Earth for Everything!<!-- TemplateEndEditable --></h3>
+
+</div>
+
+<div id="buttonscan"><!-- TemplateBeginEditable name="scan" --><a href="../scan.html"><img src="../images/smart-buttons.png"></a><!-- TemplateEndEditable --></div>
+
+<div id="buttonexp"><!-- TemplateBeginEditable name="track" --><img src="../images/smart-buttons-1.png" ><!-- TemplateEndEditable --></div>    
+
+<div id="buttonsearch"><!-- TemplateBeginEditable name="search" --><img src="../images/smart-buttons-2.png" width="347" height="54"><!-- TemplateEndEditable --></div>
+
+<div id="buttonshop"><!-- TemplateBeginEditable name="shopping" --><img src="../images/smart-buttons-3.png"><!-- TemplateEndEditable --></div>
+
+<div id="buttoncook"><!-- TemplateBeginEditable name="cook" --><img src="../images/smart-buttons-4.png"><!-- TemplateEndEditable --></div>
+
+<div id="greentracker">
+	<img src="../images/green-tracker.png"><!-- TemplateBeginEditable name="greentracker" -->
+	<p> Green tracker at 20% </p>
+	<!-- TemplateEndEditable --></div>
+<div id="footernavi">
+	<ul>
+    	<li><a href="../index.html">Home</a></li>
+        <li><a href="../scan.html">Scan</a></li>
+        <li><a href="../expirationlist.html">Track</a></li>
+        <li><a href="../Searchlist.html">Search</a></li>
+        <li><a href="../shoppinglist.html">List</a></li>
+ 	</ul>       
+</div>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" /> 
+     
+     <link rel="stylesheet" href="../css/scan.css">
+     
+     <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+     
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>smart shop</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="wrapper">
+
+	<div id="logo"><a href="../index.html"><img src="../images/smart-shop-logo-150.png" width="104" 	height="96"></a></div>
+	<!-- TemplateBeginEditable name="main" -->
+	<div id="scanfieldtitle">
+	  <p> Scan and Record </p>
+    </div>
+    <a id="scanfield" href="../productpage.html"></a> <a id="circle" href="../productpage.html">
+    <p> > </p>
+    </a>
+    <div id="manualfieldtitle">
+      <p> Manual Input </p>
+    </div>
+    <a id="manualfield" href="../productpage.html">
+    <p>Name of Product:</p>
+    </a> <a id="manualfield" href="../productpage.html">
+    <p>Date purchased:</p>
+    </a> <a id="manualfield" href="../productpage.html">
+    <p>Expiration:</p>
+    </a> <a id="manualfield" href="../productpage.html">
+    <p>Number of items:</p>
+    </a> <a id="circle" href="../productpage.html">
+    <p> > </p>
+    </a> <!-- TemplateEndEditable -->
+	<div id="footernavi">
+  <ul>
+    <li><a href="../index.html">Home</a></li>
+        <li><a href="../scan.html">Scan</a></li>
+        <li><a href="../expirationlist.html">Track</a></li>
+        <li><a href="../Searchlist.html">Search</a></li>
+        <li><a href="../shoppinglist.html">List</a></li>
+  </ul>       
+</div>
+
+</div>
+</body>
+</html>

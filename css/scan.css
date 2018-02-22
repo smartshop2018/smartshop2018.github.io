@@ -1,0 +1,164 @@
+/* CSS Document */
+
+*	{margin:0; padding:0; border:0; }
+
+@viewport {
+  width: device-width;
+  zoom: 1;
+}
+
+body {background-color:#0C9;}
+
+#wrapper	{width:350px; margin:0px auto;}
+
+#logo	{ margin:0px auto;
+    text-align: center;}
+#logo { margin-bottom: 50px;
+}
+
+#scanfieldtitle	{
+    padding: 20px; 
+    width: 200px;
+    height: 10px;  
+}
+
+#scanfieldtitle	{ margin:0px auto;
+	 text-align: center; 
+}
+
+#scanfieldtitle	{ font-size:18px; 
+	font-weight:bold; 
+	color:#336; 
+}
+
+#scanfieldtitle	{font-family: 'Lobster Two', cursive;	
+}
+
+#scanfield	{
+	border-radius: 25px;
+    border: 2px solid #FF3;
+	background-color:white;
+	display: block;
+    padding: 10px; 
+    width: 200px;
+    height: 70px;  
+}
+
+#scanfield	{ margin:0px auto;
+    text-align: center; margin-bottom:10px;
+}
+#scanfield:hover { opacity: 0.7; }
+
+#circle	{clear:both;	}
+#circle { width:300px; height:100px;}
+
+#circle {
+   width: 30px;
+	height: 30px;
+	background-color:#FC3;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	text-align:center;
+	color:#FFF;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:24px;
+	float:right;
+}
+#circle:hover	{opacity: 0.7;}
+
+#manualfieldtitle	{clear:both; padding-bottom:10px;	}
+#manualfieldtitle	{ font-size:18px; 
+	font-weight:bold; 
+	color:#336; 
+}
+
+#manualfieldtitle	{font-family: 'Lobster Two', cursive;	}
+
+#manualfield	{ margin:0px auto;
+    text-align: center; margin-bottom:10px;
+}
+#manualfield	{ border-radius: 25px;
+    border: 2px solid #FF3;
+	background-color:white;
+	display: block;
+    padding: 10px; 
+    width: 300px;
+    height: 20px;  
+}
+#manualfield 	{
+	text-align:left;
+	font-size:12px; 
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#manualfield:hover	{ color:#B9D9DB; }
+
+#manualfielddetails {
+	border-radius: 25px;
+    border: 2px solid #FF3;
+	background-color:white;
+	display: block;
+    padding: 10px; 
+    width: 300px;
+    height: 250px;  
+}
+
+#recipefield {	
+	border-radius: 25px;
+    border: 2px solid #FF3;
+	background-color:white;
+	display: block;
+    padding: 10px; 
+    width: 300px;
+    height: 250px;  
+}
+
+#recipefield { margin-top:10px; }
+
+#recipefield 	{
+	text-align:left;
+	font-size:12px; 
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#changenumber	{ margin-right:auto;
+    text-align: left; margin-top:10px;
+}
+
+#changenumber { 
+	border-radius: 25px;
+    border: 2px solid #FF3;
+	background-color:white;
+	display: block;
+    padding: 10px; 
+    width: 300px;
+    height: 10px;  
+}
+
+#changenumber	{
+	font-size:12px; 
+}
+
+#productphoto { border-radius: 25px;
+    border: 2px solid #FF3;
+	background-color:white;
+	display: block;
+    padding: 10px; 
+    width: 300px;
+    height: 60px;  
+}
+
+#productphoto {	margin-bottom:10px;
+}
+
+#footernavi	{ clear:both; padding-top:30px; }
+#footernavi ul { text-align: center; }
+#footernavi ul li { display:inline; margin:10px; }
+#footernavi a { font-size:16px; font-weight:bold; 			 
+	text-decoration:none; }
+#footernavi a:link { color:#000; }
+#footernavi a:hover  { color:#FC0; }
